@@ -6,3 +6,23 @@ git config --global user.email and git config user.email
 
 git config user.name
 git config user.email
+
+▶️  In This Video Usages Command
+► git status
+► git add . and git add all
+► git commit
+► git log
+► git log --oneline
+► git checkout
+► git checkout master
+
+✅IN THIS VIDEO USAGES COMMAND
+► git branch "here is the brand name"
+► git branch
+► git branch -b "here is the brand name"
+► git checkout 
+► git merge
+► git diff
+► git diff staged 
+► git show 
+git branch -d "branch name"
