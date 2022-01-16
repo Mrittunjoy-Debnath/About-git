@@ -26,3 +26,38 @@ git config user.email
 ► git diff staged 
 ► git show 
 git branch -d "branch name"
+
+
+✅ This Video Usages Command:
+► git remote add origin "origin URL here"
+► git push origin "branch name here"
+► git commit
+
+
+✅ IN This Video Topic
+► how generate ssh key in git
+► how to add ssh in local repository
+► how to add ssh key in github
+► how to push github with ssh key
+► generate ssh key windows command line
+► how add ssh key in git local computer
+
+✅ This Video Topic:
+► how to download repository from github using git bash
+► how to git pull from github
+► how to git fetch with github
+► how to git clone using ssh key
+► how to git clone using ssh key
+► how to git stash 
+► how to git clean
+► how to make gitignore file
+
+✅ In This Video Usages Command
+► git clone (for clone a remote repository from github)
+► git fetch (for fetch local repository with remote repository)
+► git pull (for download update from github in local repository)
+► git stash
+► git clean
+► touch
+► git ssh key
+► ssh -t git@github.com
